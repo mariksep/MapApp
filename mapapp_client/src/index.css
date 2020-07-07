@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Asap", sans-serif !important;
+}
+#root {
+  height: 100vh;
+}
+.App {
+  height: 100%;
+}
+
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}
+body {
+  background-image: url(./media/map.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.MuiInput-underline:after {
+  border-bottom: #254f6b !important;
+}
+.MuiFormLabel-root.Mui-focused {
+  color: #254f6b !important ;
+}
+
+input:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 50px rgba(1, 38, 65, 0.6) inset; /*your box-shadow*/
+  -webkit-text-fill-color: black;
+}
+
+.MuiCircularProgress-colorPrimary {
+  color: black !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .makeStyles-loginContainer-1 {
+    flex-direction: column !important;
+  }
+  .makeStyles-loginInfo-2 {
+    width: 90% !important;
+    height: 100% !important;
+  }
+  .makeStyles-loginInfoTriangel-3 {
+    display: none !important;
+  }
+  .MuiTypography-h3 {
+    font-size: 2rem !important;
+  }
+  .makeStyles-backPic-5 {
+    width: 80vw !important;
+  }
+  .makeStyles-traingle-4 {
+    width: 80vw !important;
+    border-right: 40vw solid white !important;
+    border-left: 40vw solid white !important;
+  }
+  .makeStyles-arrow-8 {
+    width: 80vw !important;
+  }
+  .makeStyles-map-18 {
+    width: 80vw !important;
+  }
+}
