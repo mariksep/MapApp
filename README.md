@@ -15,6 +15,10 @@ Jos olet lähdössä esimerkiksi kaupunki lomalle, etkä aina jaksa selata kohte
 <li>Firebase hosting ja database</li>
 </ul>
 </div>
+<div>
+Client kansiossa on React.js koodi ja function kansiossa löytyy Firebasen cloud funktioiden kodit. 
+ 
+</div>
 
 <h2>Ensimmäinen sivu kirjautuminen ja rekisteröinti</h2>
 <img height= "500" src="https://github.com/mariksep/MapApp/blob/master/readme_pictures/Sieppaa.JPG"/>
