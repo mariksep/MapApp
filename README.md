@@ -11,6 +11,8 @@ Jos olet lähdössä esimerkiksi kaupunki lomalle, etkä aina jaksa selata kohte
 <li>React</li>
 <li>Node.js</li>
 <li>Express</li>
+ <li>Leaflet</li>
+
 <li>Material ui</li>
 <li>Firebase hosting ja database</li>
 </ul>
