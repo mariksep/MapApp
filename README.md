@@ -5,6 +5,13 @@ Karttasovelluksessa voit luoda määränpäästä kartan, johon voit lisätä ko
 Jos olet lähdössä esimerkiksi kaupunki lomalle, etkä aina jaksa selata kohteita paperi listasta tai paikan päällä, sovelluksesta voi helposti katsoa alueita johon olet lisännyt kohteita. 
  <a href="https://mapapp-b8e8c.web.app/">App</a>
 </div>
+
+```
+cd mapapp_client
+```
+```
+npm start
+```
 <div>
 <h2>Käytetyt tekniikat</h2>
 <ul>
